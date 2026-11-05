@@ -1,6 +1,8 @@
+<sub><b>English</b> · <a href="../it/README.md">Italiano</a></sub>
+
 # HLLM documentation
 
-<p align="center"><img src="../assets/inside.svg" alt="Inside HLLM" width="100%"></p>
+<p align="center"><img src="../../assets/en/inside.svg" alt="Inside HLLM" width="100%"></p>
 
 Everything about HLLM, written for everyone. No technical background needed.
 
@@ -16,4 +18,4 @@ Everything about HLLM, written for everyone. No technical background needed.
 | [Guides](guides/README.md) | First steps, setup and everyday use |
 | [FAQ](faq.md) | Quick answers |
 
-[← Back to home](../README.md)
+[← Back to home](../../README.md)

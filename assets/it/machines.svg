@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="it" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="Le macchine HLLM: Box, Studio e Private, in acquisto o in abbonamento, protette da codici che si rigenerano">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.led{animation:led 2.4s ease-in-out infinite}
+@keyframes led{0%,100%{opacity:.35}50%{opacity:1}}
+.c{opacity:0;animation:code 9s infinite}
+@keyframes code{0%{opacity:0}3%,30%{opacity:1}33%,100%{opacity:0}}
+.c2{animation-delay:3s}.c3{animation-delay:6s}
+.bar{animation:drain 3s linear infinite;transform-origin:left}
+@keyframes drain{from{transform:scaleX(1)}to{transform:scaleX(0)}}
+</style>
+<rect width="1200" height="600" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">LE MACCHINE HLLM</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">La tua mente. <tspan fill="#ffb020">La tua macchina.</tspan></text>
+<g transform="translate(64 160)">
+<rect width="336" height="300" rx="24" fill="#27252d"/>
+<rect x="88" y="44" width="160" height="80" rx="18" fill="#3a3742"/><rect x="88" y="44" width="160" height="20" rx="10" fill="#4a4554"/><circle class="led" cx="226" cy="98" r="7" fill="#ffb020"/>
+<text x="32" y="170" font-size="14" fill="#ffb020" letter-spacing="3">HLLM-1 MINI</text>
+<text x="32" y="206" font-size="30" font-weight="800" fill="#fff4d6">HLLM Box</text>
+<text x="32" y="238" font-size="16" fill="#d9cfb8">Grande come un libro, silenziosa.</text>
+<text x="32" y="276" font-size="15" font-weight="700" fill="#fff4d6">In acquisto · o in abbonamento</text>
+</g>
+<g transform="translate(432 160)">
+<rect width="336" height="300" rx="24" fill="#27252d" stroke="#ffb020" stroke-width="2"/>
+<rect x="128" y="24" width="80" height="118" rx="14" fill="#3a3742"/><path d="M168 40 L182 48 L182 64 L168 72 L154 64 L154 48 Z" fill="none" stroke="#ffb020" stroke-width="3"/><rect x="138" y="88" width="60" height="7" rx="3.5" fill="#ffb020"/><circle class="led" cx="168" cy="122" r="6" fill="#ffb020"/>
+<text x="32" y="170" font-size="14" fill="#ffb020" letter-spacing="3">HLLM-1 27B</text>
+<text x="32" y="206" font-size="30" font-weight="800" fill="#fff4d6">HLLM Studio</text>
+<text x="32" y="238" font-size="16" fill="#d9cfb8">Compatta, scheda video da 16 GB.</text>
+<text x="32" y="276" font-size="15" font-weight="700" fill="#fff4d6">In acquisto · o in abbonamento</text>
+</g>
+<g transform="translate(800 160)">
+<rect width="336" height="300" rx="24" fill="#27252d"/>
+<rect x="104" y="20" width="96" height="126" rx="12" fill="#3a3742"/><rect x="114" y="34" width="76" height="20" rx="4" fill="#1d1c23"/><rect x="114" y="62" width="76" height="20" rx="4" fill="#1d1c23"/><rect x="114" y="90" width="76" height="20" rx="4" fill="#1d1c23"/><circle class="led" cx="180" cy="44" r="4" fill="#ffb020"/><circle class="led" cx="180" cy="72" r="4" fill="#ffb020" style="animation-delay:.4s"/><circle class="led" cx="180" cy="100" r="4" fill="#ffb020" style="animation-delay:.8s"/>
+<rect x="196" y="86" width="48" height="40" rx="8" fill="#ffb020"/><path d="M208 86 v-10 a12 12 0 0 1 24 0 v10" fill="none" stroke="#ffb020" stroke-width="6"/>
+<text x="32" y="170" font-size="14" fill="#ffb020" letter-spacing="3">HLLM-1 MAX</text>
+<text x="32" y="206" font-size="30" font-weight="800" fill="#fff4d6">HLLM Private</text>
+<text x="32" y="238" font-size="16" fill="#d9cfb8">Una macchina dedicata, solo tua.</text>
+<text x="32" y="276" font-size="15" font-weight="700" fill="#fff4d6">Abbonamento mensile</text>
+</g>
+<g transform="translate(64 488)">
+<rect width="1072" height="76" rx="20" fill="#1d1c23"/>
+<path d="M36 22 h20 v14 a10 10 0 0 1 -20 0z" fill="none" stroke="#ffb020" stroke-width="3"/><path d="M40 22 v-6 a6 6 0 0 1 12 0 v6" fill="none" stroke="#ffb020" stroke-width="3"/>
+<text x="80" y="34" font-size="17" font-weight="700" fill="#fff4d6">Crittografia end-to-end. Un codice che cambia ogni pochi secondi.</text>
+<text x="80" y="58" font-size="15" fill="#d9cfb8">Solo la tua app e la tua macchina leggono i tuoi dati. Mai usati per addestrare.</text>
+<g transform="translate(860 16)"><rect width="180" height="44" rx="12" fill="#27252d"/>
+<text class="c" x="90" y="31" font-size="24" font-weight="700" fill="#ffb020" text-anchor="middle" font-family="Consolas,monospace" letter-spacing="4">482 913</text>
+<text class="c c2" x="90" y="31" font-size="24" font-weight="700" fill="#ffb020" text-anchor="middle" font-family="Consolas,monospace" letter-spacing="4">027 556</text>
+<text class="c c3" x="90" y="31" font-size="24" font-weight="700" fill="#ffb020" text-anchor="middle" font-family="Consolas,monospace" letter-spacing="4">731 840</text>
+<rect class="bar" x="12" y="38" width="156" height="3" rx="1.5" fill="#ffb020"/></g>
+</g>
+</svg>

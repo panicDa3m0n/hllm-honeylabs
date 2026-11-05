@@ -1,3 +1,5 @@
+<sub><b>English</b> · <a href="../../it/guides/personality.md">Italiano</a></sub>
+
 # Choose a personality (Unlocked)
 
 Available on machines you own.

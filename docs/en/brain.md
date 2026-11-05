@@ -1,6 +1,8 @@
+<sub><b>English</b> · <a href="../it/brain.md">Italiano</a></sub>
+
 # Brain: memory and sleep
 
-<p align="center"><img src="../assets/inside.svg" alt="Inside HLLM" width="100%"></p>
+<p align="center"><img src="../../assets/en/inside.svg" alt="Inside HLLM" width="100%"></p>
 
 **HLLM Brain** is the part of HLLM that remembers. It works like human memory, in layers:
 
@@ -15,7 +17,7 @@
 
 Give HLLM a document as long as a book. It skims it the way you would: beginning, end, and the passages that matter for your question. The first word of the answer arrives in about **7 seconds**.
 
-<p align="center"><img src="../assets/numbers.svg" alt="HLLM in numbers" width="100%"></p>
+<p align="center"><img src="../../assets/en/numbers.svg" alt="HLLM in numbers" width="100%"></p>
 
 ## No context limit
 

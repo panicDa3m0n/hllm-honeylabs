@@ -1,6 +1,8 @@
+<sub><b>English</b> · <a href="../it/hllm-os.md">Italiano</a></sub>
+
 # HLLM OS
 
-<p align="center"><img src="../assets/os.svg" alt="HLLM OS" width="100%"></p>
+<p align="center"><img src="../../assets/en/os.svg" alt="HLLM OS" width="100%"></p>
 
 HLLM OS is the operating system of every HLLM machine. It is built around the mind, so the machine is not only "a computer that runs a model": it is the home of your HLLM.
 
@@ -18,6 +20,6 @@ Agents are HLLM helpers that carry out a task from start to finish: booking, com
 ## Ephemeral screens
 When an agent needs your OK, or a job is done, a small screen appears on your phone with exactly what you need: a summary, two buttons. Once you answer, it disappears. No app to open, no inbox to clean.
 
-<p align="center"><img src="../assets/day.svg" alt="A day with HLLM" width="100%"></p>
+<p align="center"><img src="../../assets/en/day.svg" alt="A day with HLLM" width="100%"></p>
 
 [← Documentation](README.md)

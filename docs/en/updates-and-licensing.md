@@ -1,3 +1,5 @@
+<sub><b>English</b> · <a href="../it/updates-and-licensing.md">Italiano</a></sub>
+
 # Updates & licensing
 
 - **No subscription for the model.** Buy the machine and the mind is yours.

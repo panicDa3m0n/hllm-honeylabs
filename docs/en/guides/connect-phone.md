@@ -1,3 +1,5 @@
+<sub><b>English</b> · <a href="../../it/guides/connect-phone.md">Italiano</a></sub>
+
 # Connect your phone
 
 1. Open the HLLM app and tap **Add machine**.

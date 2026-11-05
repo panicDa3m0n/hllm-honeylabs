@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="it" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="La famiglia HLLM-1: Mini, 27B e Max, ognuno anche Unlocked">
+<defs>
+<path id="h" d="M11 0 L22 6 L22 19 L11 25 L0 19 L0 6 Z"/>
+</defs>
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.on{fill:#ffb020;animation:fill 5s ease-out infinite}
+@keyframes fill{0%{opacity:.15}20%,100%{opacity:1}}
+.off{fill:#3d3a45}
+</style>
+<rect width="1200" height="600" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">LA FAMIGLIA HLLM-1</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">Una mente. <tspan fill="#ffb020">Tre taglie.</tspan></text>
+<!-- card template: rows at y 200/250/300 -->
+<g transform="translate(64 160)">
+<rect width="336" height="380" rx="24" fill="#27252d"/>
+<text x="32" y="50" font-size="15" fill="#d9cfb8" letter-spacing="3">HLLM-1</text><text x="32" y="96" font-size="48" font-weight="800" fill="#fff4d6">Mini</text>
+<text x="32" y="132" font-size="17" fill="#d9cfb8">Leggera e velocissima.</text>
+<text x="32" y="180" font-size="15" fill="#fff4d6">Ragionamento</text><g transform="translate(32 192)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="off"/><use href="#h" x="112" class="off"/></g>
+<text x="32" y="246" font-size="15" fill="#fff4d6">Velocità</text><g transform="translate(32 258)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="on"/></g>
+<text x="32" y="312" font-size="15" fill="#fff4d6">Memoria</text><g transform="translate(32 324)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="on"/></g>
+<rect x="200" y="320" width="112" height="34" rx="17" fill="#1d1c23"/><text x="256" y="343" font-size="14" fill="#ffb020" text-anchor="middle">HLLM Box</text>
+</g>
+<g transform="translate(432 160)">
+<rect width="336" height="380" rx="24" fill="#27252d" stroke="#ffb020" stroke-width="2"/>
+<text x="32" y="50" font-size="15" fill="#d9cfb8" letter-spacing="3">HLLM-1</text><text x="32" y="96" font-size="48" font-weight="800" fill="#fff4d6">27B</text>
+<text x="32" y="132" font-size="17" fill="#d9cfb8">L'equilibrio perfetto.</text>
+<text x="32" y="180" font-size="15" fill="#fff4d6">Ragionamento</text><g transform="translate(32 192)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="off"/></g>
+<text x="32" y="246" font-size="15" fill="#fff4d6">Velocità</text><g transform="translate(32 258)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="off"/></g>
+<text x="32" y="312" font-size="15" fill="#fff4d6">Memoria</text><g transform="translate(32 324)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="on"/></g>
+<rect x="200" y="320" width="112" height="34" rx="17" fill="#ffb020"/><text x="256" y="343" font-size="14" font-weight="700" fill="#1a1205" text-anchor="middle">HLLM Studio</text>
+</g>
+<g transform="translate(800 160)">
+<rect width="336" height="380" rx="24" fill="#27252d"/>
+<text x="32" y="50" font-size="15" fill="#d9cfb8" letter-spacing="3">HLLM-1</text><text x="32" y="96" font-size="48" font-weight="800" fill="#fff4d6">Max</text>
+<text x="32" y="132" font-size="17" fill="#d9cfb8">La mente più grande.</text>
+<text x="32" y="180" font-size="15" fill="#fff4d6">Ragionamento</text><g transform="translate(32 192)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="on"/></g>
+<text x="32" y="246" font-size="15" fill="#fff4d6">Velocità</text><g transform="translate(32 258)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="off"/><use href="#h" x="112" class="off"/></g>
+<text x="32" y="312" font-size="15" fill="#fff4d6">Memoria</text><g transform="translate(32 324)"><use href="#h" class="on"/><use href="#h" x="28" class="on"/><use href="#h" x="56" class="on"/><use href="#h" x="84" class="on"/><use href="#h" x="112" class="on"/></g>
+<rect x="200" y="320" width="112" height="34" rx="17" fill="#1d1c23"/><text x="256" y="343" font-size="14" fill="#ffb020" text-anchor="middle">HLLM Private</text>
+</g>
+<text x="600" y="578" font-size="16" fill="#d9cfb8" text-anchor="middle">Ogni modello esiste anche <tspan fill="#ffb020" font-weight="700">Unlocked</tspan>: personalità e regole le decidi tu.</text>
+</svg>

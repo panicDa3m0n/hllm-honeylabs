@@ -1,3 +1,5 @@
+<sub><b>English</b> · <a href="../../it/guides/first-start.md">Italiano</a></sub>
+
 # First start
 
 1. **Plug in** your HLLM machine and connect it to your home network.

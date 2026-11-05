@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="it" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Dentro HLLM: Harness parla con te, Brain ricorda, Engine fa correre, il modello è la mente">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.pulse{animation:pulse 4s linear infinite}
+@keyframes pulse{0%{transform:translateX(0);opacity:0}5%{opacity:1}95%{opacity:1}100%{transform:translateX(816px);opacity:0}}
+.hi{animation:hi 4s linear infinite}
+@keyframes hi{0%,100%{stroke:#3a3742}10%,20%{stroke:#ffb020}}
+.h2{animation-delay:1.1s}.h3{animation-delay:2.2s}.h4{animation-delay:3.1s}
+</style>
+<rect width="1200" height="460" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">DENTRO HLLM</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">Quattro parti. Una mente viva.</text>
+<line x1="180" y1="285" x2="1020" y2="285" stroke="#3a3742" stroke-width="3"/>
+<circle class="pulse" cx="180" cy="285" r="9" fill="#ffb020"/>
+<g transform="translate(64 180)"><rect class="hi" width="232" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">LA VOCE</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">Harness</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Parla con te,</text><text x="28" y="156" font-size="16" fill="#d9cfb8">usa gli strumenti,</text><text x="28" y="180" font-size="16" fill="#d9cfb8">porta a termine.</text></g>
+<g transform="translate(336 180)"><rect class="hi h2" width="232" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">LA MEMORIA</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">Brain</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Tiene il presente</text><text x="28" y="156" font-size="16" fill="#d9cfb8">a fuoco, ritrova il</text><text x="28" y="180" font-size="16" fill="#d9cfb8">passato, dorme la notte.</text></g>
+<g transform="translate(608 180)"><rect class="hi h3" width="232" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">IL CUORE</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">Engine</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Fa correre una mente</text><text x="28" y="156" font-size="16" fill="#d9cfb8">grande su una</text><text x="28" y="180" font-size="16" fill="#d9cfb8">macchina di casa.</text></g>
+<g transform="translate(880 180)"><rect class="hi h4" width="256" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">LA MENTE</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">HLLM-1</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Ragiona, scrive,</text><text x="28" y="156" font-size="16" fill="#d9cfb8">capisce. Modellata</text><text x="28" y="180" font-size="16" fill="#d9cfb8">sul tuo hardware.</text></g>
+</svg>

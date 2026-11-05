@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="it" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Cosa rende diversa HLLM: memoria senza limiti, ragionamento onesto, dorme, tutto resta a casa">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.ic{animation:glow 4s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
+.d2{animation-delay:1s}.d3{animation-delay:2s}.d4{animation-delay:3s}
+</style>
+<rect width="1200" height="640" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">COSA LA RENDE DIVERSA</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">Non un chatbot. Una mente.</text>
+<g transform="translate(64 160)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic" transform="translate(36 40)"><path d="M28 0 L56 16 L56 48 L28 64 L0 48 L0 16 Z" fill="none" stroke="#ffb020" stroke-width="4"/><circle cx="28" cy="32" r="9" fill="#ffb020"/></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">Memoria senza limiti</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">Dalle un libro intero, un anno di chat,</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">ogni documento che hai.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">«A pagina 212 dice il contrario. Ecco perché.»</text>
+</g>
+<g transform="translate(616 160)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic d2" transform="translate(36 40)"><path d="M28 2 a20 20 0 0 0 -10 37 v11 h20 v-11 a20 20 0 0 0 -10 -37z" fill="none" stroke="#ffb020" stroke-width="4"/><line x1="20" y1="60" x2="36" y2="60" stroke="#ffb020" stroke-width="4" stroke-linecap="round"/></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">Sa quello che non sa</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">Ragiona passo per passo e sa</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">dove finisce ciò che conosce.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">«Non ne sono sicura. Controllo i tuoi file.»</text>
+</g>
+<g transform="translate(64 392)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic d3" transform="translate(36 40)"><path d="M44 8 a28 28 0 1 0 12 40 a22 22 0 1 1 -12 -40z" fill="none" stroke="#ffb020" stroke-width="4"/><text x="40" y="22" font-size="16" font-weight="800" fill="#ffb020">z</text></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">Dorme, e si sveglia più saggia</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">Di notte trasforma i ricordi del giorno</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">in conoscenza ordinata e duratura.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">«Stanotte ho capito come ti piacciono i report.»</text>
+</g>
+<g transform="translate(616 392)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic d4" transform="translate(36 40)"><path d="M4 30 L32 6 L60 30" fill="none" stroke="#ffb020" stroke-width="4" stroke-linejoin="round"/><path d="M10 26 V60 H54 V26" fill="none" stroke="#ffb020" stroke-width="4"/><rect x="25" y="38" width="14" height="22" fill="#ffb020"/></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">Vive a casa tua</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">I tuoi dati restano sulla tua macchina.</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">Niente cloud né tracciamento, va offline.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">«Internet è giù? Io ci sono.»</text>
+</g>
+</svg>

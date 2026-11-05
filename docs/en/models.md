@@ -1,6 +1,8 @@
+<sub><b>English</b> · <a href="../it/models.md">Italiano</a></sub>
+
 # Models
 
-<p align="center"><img src="../assets/family.svg" alt="The HLLM-1 family" width="100%"></p>
+<p align="center"><img src="../../assets/en/family.svg" alt="The HLLM-1 family" width="100%"></p>
 
 ## The HLLM-1 family
 
@@ -18,7 +20,7 @@ The number in the name (HLLM-**1**) is the generation of our architecture. Each 
 
 ## Standard or Unlocked?
 
-<p align="center"><img src="../assets/unlocked.svg" alt="Standard vs Unlocked" width="100%"></p>
+<p align="center"><img src="../../assets/en/unlocked.svg" alt="Standard vs Unlocked" width="100%"></p>
 
 **Standard** models follow safe, balanced rules designed for everyone at home, kids included. They are polite and careful.
 

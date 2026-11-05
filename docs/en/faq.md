@@ -1,3 +1,5 @@
+<sub><b>English</b> · <a href="../it/faq.md">Italiano</a></sub>
+
 # FAQ
 
 **Do I need to know anything about AI?**
@@ -22,6 +24,6 @@ Not if you buy the machine. Subscription is an option for those who prefer it.
 5 years of security updates.
 
 **Can I contribute?**
-Yes: share ideas in [Discussions](../../../discussions).
+Yes: share ideas in [Discussions](https://github.com/panicDa3m0n/hllm-honeylabs/discussions).
 
 [← Documentation](README.md)

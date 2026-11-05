@@ -1,6 +1,8 @@
+<sub><b>English</b> · <a href="../it/machines.md">Italiano</a></sub>
+
 # Machines
 
-<p align="center"><img src="../assets/machines.svg" alt="HLLM machines" width="100%"></p>
+<p align="center"><img src="../../assets/en/machines.svg" alt="HLLM machines" width="100%"></p>
 
 | | HLLM Box | HLLM Studio | HLLM Private |
 |---|---|---|---|

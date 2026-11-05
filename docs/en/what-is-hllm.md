@@ -1,6 +1,8 @@
+<sub><b>English</b> · <a href="../it/what-is-hllm.md">Italiano</a></sub>
+
 # What is HLLM
 
-<p align="center"><img src="../assets/features.svg" alt="What makes HLLM different" width="100%"></p>
+<p align="center"><img src="../../assets/en/features.svg" alt="What makes HLLM different" width="100%"></p>
 
 ## First: what is an AI model?
 

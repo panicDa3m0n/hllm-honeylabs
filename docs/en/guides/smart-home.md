@@ -1,3 +1,5 @@
+<sub><b>English</b> · <a href="../../it/guides/smart-home.md">Italiano</a></sub>
+
 # Your smart home
 
 1. In the app open **Home → Add devices**: HLLM OS finds compatible devices on your network.
