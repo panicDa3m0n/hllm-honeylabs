@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="What makes HLLM different: unlimited memory, honest reasoning, it sleeps, everything stays home">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.ic{animation:glow 4s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
+.d2{animation-delay:1s}.d3{animation-delay:2s}.d4{animation-delay:3s}
+</style>
+<rect width="1200" height="640" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">WHAT MAKES IT DIFFERENT</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">Not a chatbot. A mind.</text>
+<g transform="translate(64 160)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic" transform="translate(36 40)"><path d="M28 0 L56 16 L56 48 L28 64 L0 48 L0 16 Z" fill="none" stroke="#ffb020" stroke-width="4"/><circle cx="28" cy="32" r="9" fill="#ffb020"/></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">Memory without limits</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">Give it a whole book, a year of chats,</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">every document you own.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">“Page 212 says the opposite. Here's why.”</text>
+</g>
+<g transform="translate(616 160)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic d2" transform="translate(36 40)"><path d="M28 2 a20 20 0 0 0 -10 37 v11 h20 v-11 a20 20 0 0 0 -10 -37z" fill="none" stroke="#ffb020" stroke-width="4"/><line x1="20" y1="60" x2="36" y2="60" stroke="#ffb020" stroke-width="4" stroke-linecap="round"/></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">Knows what it doesn't know</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">It reasons step by step and knows</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">where its knowledge ends.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">“I'm not sure. Let me check your files.”</text>
+</g>
+<g transform="translate(64 392)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic d3" transform="translate(36 40)"><path d="M44 8 a28 28 0 1 0 12 40 a22 22 0 1 1 -12 -40z" fill="none" stroke="#ffb020" stroke-width="4"/><text x="40" y="22" font-size="16" font-weight="800" fill="#ffb020">z</text></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">It sleeps, and wakes up wiser</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">At night it turns the day's memories</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">into tidy, lasting knowledge.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">“Last night I learned how you like reports.”</text>
+</g>
+<g transform="translate(616 392)">
+<rect width="520" height="200" rx="24" fill="#27252d"/>
+<g class="ic d4" transform="translate(36 40)"><path d="M4 30 L32 6 L60 30" fill="none" stroke="#ffb020" stroke-width="4" stroke-linejoin="round"/><path d="M10 26 V60 H54 V26" fill="none" stroke="#ffb020" stroke-width="4"/><rect x="25" y="38" width="14" height="22" fill="#ffb020"/></g>
+<text x="116" y="62" font-size="26" font-weight="800" fill="#fff4d6">It lives in your home</text>
+<text x="116" y="96" font-size="18" fill="#d9cfb8">Your data never leaves your machine.</text>
+<text x="116" y="120" font-size="18" fill="#d9cfb8">No cloud, no tracking, works offline.</text>
+<text x="116" y="164" font-size="18" font-style="italic" fill="#ffb020">“Internet down? I'm still here.”</text>
+</g>
+</svg>

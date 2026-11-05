@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Inside HLLM: Harness talks with you, Brain remembers, Engine thinks, the model is the mind">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.pulse{animation:pulse 4s linear infinite}
+@keyframes pulse{0%{transform:translateX(0);opacity:0}5%{opacity:1}95%{opacity:1}100%{transform:translateX(816px);opacity:0}}
+.hi{animation:hi 4s linear infinite}
+@keyframes hi{0%,100%{stroke:#3a3742}10%,20%{stroke:#ffb020}}
+.h2{animation-delay:1.1s}.h3{animation-delay:2.2s}.h4{animation-delay:3.1s}
+</style>
+<rect width="1200" height="460" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">INSIDE HLLM</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">Four parts. One living mind.</text>
+<line x1="180" y1="285" x2="1020" y2="285" stroke="#3a3742" stroke-width="3"/>
+<circle class="pulse" cx="180" cy="285" r="9" fill="#ffb020"/>
+<g transform="translate(64 180)"><rect class="hi" width="232" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">THE VOICE</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">Harness</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Talks with you,</text><text x="28" y="156" font-size="16" fill="#d9cfb8">uses tools, gets</text><text x="28" y="180" font-size="16" fill="#d9cfb8">things done.</text></g>
+<g transform="translate(336 180)"><rect class="hi h2" width="232" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">THE MEMORY</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">Brain</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Keeps the present</text><text x="28" y="156" font-size="16" fill="#d9cfb8">in focus, finds the</text><text x="28" y="180" font-size="16" fill="#d9cfb8">past, sleeps at night.</text></g>
+<g transform="translate(608 180)"><rect class="hi h3" width="232" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">THE HEART</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">Engine</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Makes a big mind</text><text x="28" y="156" font-size="16" fill="#d9cfb8">run fast on a home</text><text x="28" y="180" font-size="16" fill="#d9cfb8">machine.</text></g>
+<g transform="translate(880 180)"><rect class="hi h4" width="256" height="210" rx="24" fill="#27252d" stroke-width="2"/>
+<text x="28" y="50" font-size="14" fill="#ffb020" letter-spacing="3">THE MIND</text><text x="28" y="88" font-size="28" font-weight="800" fill="#fff4d6">HLLM-1</text>
+<text x="28" y="132" font-size="16" fill="#d9cfb8">Reasons, writes,</text><text x="28" y="156" font-size="16" fill="#d9cfb8">understands. Shaped</text><text x="28" y="180" font-size="16" fill="#d9cfb8">for your hardware.</text></g>
+</svg>

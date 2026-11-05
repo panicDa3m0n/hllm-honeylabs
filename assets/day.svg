@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="A day with HLLM: four moments, from morning briefing to night-time sleep">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.step{opacity:.25;animation:on 16s infinite}
+@keyframes on{0%,3%{opacity:.25}6%,22%{opacity:1}26%,100%{opacity:.25}}
+.note{opacity:0;animation:pop 16s infinite}
+@keyframes pop{0%,4%{opacity:0;transform:translateY(14px)}7%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(0)}}
+.s2,.n2{animation-delay:4s}.s3,.n3{animation-delay:8s}.s4,.n4{animation-delay:12s}
+</style>
+<rect width="1200" height="560" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">A DAY WITH HLLM</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">It works while you live.</text>
+<line x1="96" y1="168" x2="96" y2="500" stroke="#3a3742" stroke-width="3"/>
+<g class="step s1"><circle cx="96" cy="182" r="12" fill="#ffb020"/><text x="130" y="176" font-size="16" font-weight="700" fill="#ffb020" letter-spacing="2">07:30</text><text x="130" y="202" font-size="22" fill="#fff4d6">Your morning, already sorted: 3 emails that matter.</text></g>
+<g class="step s2"><circle cx="96" cy="270" r="12" fill="#ffb020"/><text x="130" y="264" font-size="16" font-weight="700" fill="#ffb020" letter-spacing="2">11:10</text><text x="130" y="290" font-size="22" fill="#fff4d6">You're out. An agent needs a yes: one tap.</text></g>
+<g class="step s3"><circle cx="96" cy="358" r="12" fill="#ffb020"/><text x="130" y="352" font-size="16" font-weight="700" fill="#ffb020" letter-spacing="2">19:00</text><text x="130" y="378" font-size="22" fill="#fff4d6">Home: lights on, and it remembers last week's promise.</text></g>
+<g class="step s4"><circle cx="96" cy="446" r="12" fill="#ffb020"/><text x="130" y="440" font-size="16" font-weight="700" fill="#ffb020" letter-spacing="2">02:00</text><text x="130" y="466" font-size="22" fill="#fff4d6">It sleeps: today's memories become knowledge.</text></g>
+<g transform="translate(860 40)">
+<rect width="260" height="480" rx="40" fill="#0e0d12" stroke="#3a3742" stroke-width="3"/>
+<rect x="96" y="16" width="68" height="8" rx="4" fill="#27252d"/>
+<text x="130" y="70" font-size="40" font-weight="300" fill="#d9cfb8" text-anchor="middle">9:41</text>
+<g class="note n1"><rect x="16" y="110" width="228" height="128" rx="20" fill="#27252d"/><text x="34" y="140" font-size="13" font-weight="700" fill="#ffb020" letter-spacing="2">HLLM · BRIEFING</text><text x="34" y="168" font-size="16" fill="#fff4d6">Good morning. 3 emails</text><text x="34" y="190" font-size="16" fill="#fff4d6">need you, 41 can wait.</text><text x="34" y="218" font-size="14" fill="#d9cfb8">Meeting moved to 10:30.</text></g>
+<g class="note n2"><rect x="16" y="110" width="228" height="168" rx="20" fill="#27252d" stroke="#ffb020" stroke-width="2"/><text x="34" y="140" font-size="13" font-weight="700" fill="#ffb020" letter-spacing="2">AGENT · NEEDS YOU</text><text x="34" y="168" font-size="16" fill="#fff4d6">Book the plumber for</text><text x="34" y="190" font-size="16" fill="#fff4d6">Thursday, 9:00, €80?</text><rect x="34" y="212" width="90" height="40" rx="20" fill="#ffb020"/><text x="79" y="238" font-size="15" font-weight="700" fill="#1a1205" text-anchor="middle">Approve</text><rect x="134" y="212" width="90" height="40" rx="20" fill="none" stroke="#d9cfb8"/><text x="179" y="238" font-size="15" fill="#d9cfb8" text-anchor="middle">Not now</text></g>
+<g class="note n3"><rect x="16" y="110" width="228" height="128" rx="20" fill="#27252d"/><text x="34" y="140" font-size="13" font-weight="700" fill="#ffb020" letter-spacing="2">HLLM · HOME</text><text x="34" y="168" font-size="16" fill="#fff4d6">Welcome back. Lights</text><text x="34" y="190" font-size="16" fill="#fff4d6">on, 21 °C. You asked me</text><text x="34" y="212" font-size="16" fill="#fff4d6">to remind you: call Mom.</text></g>
+<g class="note n4"><rect x="16" y="110" width="228" height="128" rx="20" fill="#27252d"/><text x="34" y="140" font-size="13" font-weight="700" fill="#ffb020" letter-spacing="2">HLLM · SLEEPING</text><text x="34" y="168" font-size="16" fill="#fff4d6">Tidying up today:</text><text x="34" y="190" font-size="16" fill="#fff4d6">212 memories → 9 notes.</text><text x="34" y="218" font-size="14" fill="#d9cfb8">See you tomorrow.</text></g>
+<text x="130" y="452" font-size="12" fill="#6f6878" text-anchor="middle" letter-spacing="2">EPHEMERAL SCREENS</text>
+</g>
+</svg>

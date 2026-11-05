@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620" role="img" aria-label="HLLM in numbers: speed from 24 to 38 words per second with a 60 target; a 256 thousand token document answered in 7 seconds instead of 3 minutes; memory without limits">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.grow{animation:grow 2.2s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:left}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.g2{animation-delay:.3s}.g3{animation-delay:.6s}
+.count{animation:fade 2.6s both}
+@keyframes fade{0%,60%{opacity:0}100%{opacity:1}}
+</style>
+<rect width="1200" height="620" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">HLLM IN NUMBERS</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">Faster every week.</text>
+<!-- speed -->
+<g transform="translate(64 160)">
+<rect width="660" height="410" rx="24" fill="#27252d"/>
+<text x="32" y="48" font-size="22" font-weight="800" fill="#fff4d6">Writing speed</text>
+<text x="32" y="74" font-size="15" fill="#d9cfb8">HLLM-1 27B on one 16 GB home graphics card, words per second</text>
+<line x1="150" y1="100" x2="150" y2="360" stroke="#3a3742" stroke-width="2"/>
+<text x="138" y="146" font-size="16" fill="#d9cfb8" text-anchor="end">v0.45</text>
+<rect class="grow" x="152" y="124" width="174" height="34" rx="4" fill="#6f6878"/>
+<text class="count" x="338" y="148" font-size="18" font-weight="700" fill="#fff4d6">24</text>
+<text x="138" y="226" font-size="16" fill="#d9cfb8" text-anchor="end">v0.48</text>
+<rect class="grow g2" x="152" y="204" width="276" height="34" rx="4" fill="#ffb020"/>
+<text class="count" x="440" y="228" font-size="18" font-weight="700" fill="#fff4d6">38  <tspan font-size="14" font-weight="400" fill="#d9cfb8">+60%, same intelligence</tspan></text>
+<text x="138" y="306" font-size="16" fill="#d9cfb8" text-anchor="end">Vision</text>
+<rect class="grow g3" x="152" y="284" width="436" height="34" rx="4" fill="none" stroke="#ffb020" stroke-width="2" stroke-dasharray="6 5"/>
+<text class="count" x="598" y="308" font-size="18" font-weight="700" fill="#fff4d6">60</text>
+<text x="32" y="390" font-size="13" fill="#a39b8a">Measured on a PC with an RTX 4070 Ti SUPER. Vision = HLLM target.</text>
+</g>
+<!-- book -->
+<g transform="translate(756 160)">
+<rect width="380" height="230" rx="24" fill="#27252d"/>
+<text x="32" y="48" font-size="22" font-weight="800" fill="#fff4d6">A whole book, one question</text>
+<text x="32" y="74" font-size="15" fill="#d9cfb8">First word of the answer, 256,000 tokens</text>
+<text x="32" y="150" font-size="72" font-weight="800" fill="#ffb020">7 s</text>
+<text x="170" y="122" font-size="16" fill="#d9cfb8">a normal setup:</text>
+<text x="170" y="150" font-size="22" font-weight="700" fill="#fff4d6">~3 minutes,</text>
+<text x="170" y="176" font-size="16" fill="#d9cfb8">or it doesn't fit</text>
+<text x="32" y="210" font-size="13" fill="#a39b8a">Same home PC, same model.</text>
+</g>
+<g transform="translate(756 410)">
+<rect width="380" height="160" rx="24" fill="#27252d" stroke="#ffb020" stroke-width="2"/>
+<text x="32" y="48" font-size="22" font-weight="800" fill="#fff4d6">Memory</text>
+<text x="32" y="112" font-size="64" font-weight="800" fill="#ffb020">∞</text>
+<text x="120" y="96" font-size="18" fill="#fff4d6">No context limit.</text>
+<text x="120" y="122" font-size="16" fill="#d9cfb8">Everything you said, kept.</text>
+</g>
+</svg>
