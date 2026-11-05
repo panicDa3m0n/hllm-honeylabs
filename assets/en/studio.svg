@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="HLLM Studio Apps: one mind that builds apps, images, music, video, browses the web and uses your programs">
+<style>
+text{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.t{animation:lit 12s infinite}
+@keyframes lit{0%,2%{stroke:#3a3742}5%,14%{stroke:#ffb020}17%,100%{stroke:#3a3742}}
+.t2{animation-delay:2s}.t3{animation-delay:4s}.t4{animation-delay:6s}.t5{animation-delay:8s}.t6{animation-delay:10s}
+.ray{stroke-dasharray:5 9;animation:flow 1.4s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-28}}
+.core{animation:breathe 3s ease-in-out infinite;transform-origin:600px 360px}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+.bar{animation:fillb 4s ease-in-out infinite;transform-box:fill-box;transform-origin:left}
+@keyframes fillb{0%{transform:scaleX(.05)}80%,100%{transform:scaleX(1)}}
+</style>
+<rect width="1200" height="640" rx="28" fill="#15141A"/>
+<text x="64" y="76" font-size="18" font-weight="700" fill="#ffb020" letter-spacing="5">HLLM STUDIO APPS</text>
+<text x="64" y="122" font-size="38" font-weight="800" fill="#fff4d6">One mind. <tspan fill="#ffb020">Every craft.</tspan></text>
+<g stroke="#ffb020" stroke-width="2" fill="none" opacity=".7">
+<path class="ray" d="M600 360 L250 230"/><path class="ray" d="M600 360 L250 360"/><path class="ray" d="M600 360 L250 490"/>
+<path class="ray" d="M600 360 L950 230"/><path class="ray" d="M600 360 L950 360"/><path class="ray" d="M600 360 L950 490"/>
+</g>
+<g class="core"><path d="M600 300 L652 330 L652 390 L600 420 L548 390 L548 330 Z" fill="#27252d" stroke="#ffb020" stroke-width="3"/>
+<g transform="translate(575 335) scale(.5)"><polyline points="30,12 8,50 30,88" fill="none" stroke="#fff4d6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><polyline points="70,12 92,50 70,88" fill="none" stroke="#fff4d6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><line x1="32" y1="50" x2="68" y2="50" stroke="#ffb020" stroke-width="12" stroke-linecap="round"/></g></g>
+<g transform="translate(64 190)"><rect class="t" width="318" height="84" rx="20" fill="#27252d" stroke-width="2"/><rect x="24" y="24" width="36" height="36" rx="8" fill="none" stroke="#ffb020" stroke-width="3"/><path d="M34 36 l-6 6 6 6 M50 36 l6 6 -6 6" fill="none" stroke="#ffb020" stroke-width="3"/><text x="80" y="38" font-size="19" font-weight="700" fill="#fff4d6">Apps &amp; sites</text><text x="80" y="62" font-size="14" fill="#d9cfb8">described tonight, used tomorrow</text></g>
+<g transform="translate(64 320)"><rect class="t t2" width="318" height="84" rx="20" fill="#27252d" stroke-width="2"/><rect x="24" y="24" width="36" height="36" rx="6" fill="none" stroke="#ffb020" stroke-width="3"/><circle cx="34" cy="34" r="4" fill="#ffb020"/><path d="M26 56 l12 -12 8 8 6 -6 6 8" fill="none" stroke="#ffb020" stroke-width="3"/><text x="80" y="38" font-size="19" font-weight="700" fill="#fff4d6">Images</text><text x="80" y="62" font-size="14" fill="#d9cfb8">in your style, learned over time</text></g>
+<g transform="translate(64 450)"><rect class="t t3" width="318" height="84" rx="20" fill="#27252d" stroke-width="2"/><path d="M36 58 V28 l20 -4 V52" fill="none" stroke="#ffb020" stroke-width="3"/><circle cx="31" cy="58" r="6" fill="#ffb020"/><circle cx="51" cy="52" r="6" fill="#ffb020"/><text x="80" y="38" font-size="19" font-weight="700" fill="#fff4d6">Music &amp; voice</text><text x="80" y="62" font-size="14" fill="#d9cfb8">a soundtrack for your day</text></g>
+<g transform="translate(818 190)"><rect class="t t4" width="318" height="84" rx="20" fill="#27252d" stroke-width="2"/><rect x="22" y="28" width="30" height="28" rx="5" fill="none" stroke="#ffb020" stroke-width="3"/><path d="M52 36 l10 -6 v24 l-10 -6z" fill="#ffb020"/><text x="80" y="38" font-size="19" font-weight="700" fill="#fff4d6">Video</text><text x="80" y="62" font-size="14" fill="#d9cfb8">rendered while you sleep</text></g>
+<g transform="translate(818 320)"><rect class="t t5" width="318" height="84" rx="20" fill="#27252d" stroke-width="2"/><circle cx="42" cy="42" r="17" fill="none" stroke="#ffb020" stroke-width="3"/><path d="M25 42 h34 M42 25 c-10 10 -10 24 0 34 c10 -10 10 -24 0 -34" fill="none" stroke="#ffb020" stroke-width="2"/><text x="80" y="38" font-size="19" font-weight="700" fill="#fff4d6">Browsing</text><text x="80" y="62" font-size="14" fill="#d9cfb8">reads, compares, books</text></g>
+<g transform="translate(818 450)"><rect class="t t6" width="318" height="84" rx="20" fill="#27252d" stroke-width="2"/><rect x="22" y="26" width="40" height="28" rx="4" fill="none" stroke="#ffb020" stroke-width="3"/><path d="M48 46 l8 14 3 -6 6 0z" fill="#ffb020"/><text x="80" y="38" font-size="19" font-weight="700" fill="#fff4d6">Your programs</text><text x="80" y="62" font-size="14" fill="#d9cfb8">it clicks, types, finishes</text></g>
+<g transform="translate(380 552)"><rect width="440" height="70" rx="18" fill="#1d1c23"/><text x="24" y="30" font-size="14" font-weight="700" fill="#ffb020" letter-spacing="2">ARTIFACT VAULT</text><text x="24" y="54" font-size="14" fill="#d9cfb8">every version, kept forever</text><rect class="bar" x="310" y="24" width="106" height="8" rx="4" fill="#ffb020"/><rect x="310" y="42" width="106" height="8" rx="4" fill="#3a3742"/></g>
+</svg>

@@ -9,6 +9,7 @@
   <a href="docs/en/models.md">Models</a> ·
   <a href="docs/en/machines.md">Machines</a> ·
   <a href="docs/en/hllm-os.md">HLLM OS</a> ·
+  <a href="docs/en/studio-apps.md">Studio Apps</a> ·
   <a href="docs/en/faq.md">FAQ</a>
 </p>
 
@@ -66,6 +67,18 @@ Each machine runs **HLLM OS**, built around the mind. It connects to your **smar
 <p align="center"><img src="assets/en/os.svg" alt="HLLM OS connects home, web, phone and agents" width="100%"></p>
 
 → [HLLM OS](docs/en/hllm-os.md)
+
+## HLLM Studio Apps
+
+One mind, every craft. It **builds apps, draws, composes, films, browses and uses your programs**, and remembers your taste across all of them. Every creation is kept, every version, forever.
+
+<p align="center"><img src="assets/en/studio.svg" alt="HLLM Studio Apps" width="100%"></p>
+
+**Dream mode.** You sleep, it creates. At night it finishes your projects and prepares surprises: a film of your week, a song from your notes, the app you described at dinner.
+
+<p align="center"><img src="assets/en/dream.svg" alt="Dream mode" width="100%"></p>
+
+→ [Studio Apps and the ideas we are chasing](docs/en/studio-apps.md)
 
 ## In numbers
 

@@ -2,6 +2,17 @@
 # Usage: python3 tools/translate_svg.py assets/en assets/it
 import os, sys, glob
 IT = {
+"Every craft.":"Ogni mestiere.","Apps &amp; sites":"App e siti","described tonight, used tomorrow":"descritte stasera, pronte domani",
+"Images":"Immagini","in your style, learned over time":"nel tuo stile, imparato col tempo","Music &amp; voice":"Musica e voce",
+"a soundtrack for your day":"la colonna sonora della giornata","Video":"Video","rendered while you sleep":"create mentre dormi",
+"Browsing":"Navigazione","reads, compares, books":"legge, confronta, prenota","Your programs":"I tuoi programmi",
+"it clicks, types, finishes":"clicca, scrive, finisce","ARTIFACT VAULT":"ARCHIVIO DELLE CREAZIONI","every version, kept forever":"ogni versione, per sempre",
+"HLLM Studio Apps: one mind that builds apps, images, music, video, browses the web and uses your programs":"HLLM Studio Apps: una mente che crea app, immagini, musica, video, naviga e usa i tuoi programmi",
+"DREAM MODE":"MODALITÀ SOGNO","You sleep. ":"Tu dormi. ","It creates.":"Lei crea.","TONIGHT · 02:14":"STANOTTE · 02:14",
+"Plant tracker app, v2":"App per le piante, v2","Your week, as a 60 s film":"La tua settimana, film da 60 s","A song from today's notes":"Una canzone dalle note di oggi",
+"HLLM · GOOD MORNING":"HLLM · BUONGIORNO","While you slept I finished":"Mentre dormivi ho finito","your app and made 3 surprises.":"la tua app e 3 sorprese.",
+"Show me":"Fammi vedere","Later":"Dopo","212 memories → 9 notes":"212 ricordi → 9 note",
+"Dream mode: at night HLLM finishes your projects and prepares surprises for the morning":"Modalità sogno: di notte HLLM finisce i tuoi progetti e prepara sorprese per il mattino",
 "We create ":"Creiamo ","One mind. ":"Una mente. ","Your mind. ":"La tua mente. ","Not just a model. ":"Non solo un modello. ","Every model also comes ":"Ogni modello esiste anche ",
 "We create":"Creiamo","digital living beings":"esseri viventi digitali",
 "A mind that lives in your home. It remembers, it reasons, it sleeps.":"Una mente che vive a casa tua. Ricorda, ragiona, dorme.",

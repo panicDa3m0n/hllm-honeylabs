@@ -12,6 +12,7 @@ Everything about HLLM, written for everyone. No technical background needed.
 | [Models](models.md) | The HLLM-1 family, Standard vs Unlocked |
 | [Machines](machines.md) | HLLM Box, Studio and Private: buy or subscribe |
 | [HLLM OS](hllm-os.md) | Smart home, web research, agents, ephemeral screens |
+| [Studio Apps](studio-apps.md) | Apps, images, music, video, browsing, dream mode |
 | [Brain](brain.md) | How HLLM remembers, finds and sleeps |
 | [Security & privacy](security-and-privacy.md) | Encryption, rotating codes, your data stays yours |
 | [Updates & licensing](updates-and-licensing.md) | 5 years of security updates, no model subscription |

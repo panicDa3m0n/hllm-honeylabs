@@ -9,6 +9,7 @@
   <a href="docs/it/models.md">Modelli</a> ·
   <a href="docs/it/machines.md">Macchine</a> ·
   <a href="docs/it/hllm-os.md">HLLM OS</a> ·
+  <a href="docs/it/studio-apps.md">Studio Apps</a> ·
   <a href="docs/it/faq.md">FAQ</a>
 </p>
 
@@ -66,6 +67,18 @@ Ogni macchina usa **HLLM OS**, costruito intorno alla mente:
 - manda sul telefono **schermate effimere**: compaiono quando serve il tuo OK o un lavoro è finito, poi spariscono.
 
 <p align="center"><img src="assets/it/os.svg" alt="HLLM OS collega casa, web, telefono e agenti" width="100%"></p>
+
+## HLLM Studio Apps
+
+Una mente, ogni mestiere. **Crea app, disegna, compone, gira video, naviga e usa i tuoi programmi**, e ricorda i tuoi gusti in tutti. Ogni creazione resta, ogni versione, per sempre.
+
+<p align="center"><img src="assets/it/studio.svg" alt="HLLM Studio Apps" width="100%"></p>
+
+**Modalità sogno.** Tu dormi, lei crea. Di notte finisce i tuoi progetti e prepara sorprese: un film della tua settimana, una canzone dalle tue note, l'app che hai descritto a cena.
+
+<p align="center"><img src="assets/it/dream.svg" alt="Modalità sogno" width="100%"></p>
+
+→ [Studio Apps e le idee che stiamo inseguendo](docs/it/studio-apps.md)
 
 ## In numeri
 
